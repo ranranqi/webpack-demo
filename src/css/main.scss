@@ -1,0 +1,21 @@
+.out{
+    background: #80E6B5;
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .in{
+        background: #ddd;
+        border-radius: 10%;
+        p{
+            color: blue;
+            font-size: 35px;  
+        }
+    }
+}
+
+
+
+
